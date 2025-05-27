@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Florian Carichon - Florian Carichon | AI & NLP Postdoctoral Researcher"
+title: "Florian Carichon | AI & NLP Postdoctoral Researcher"
 author_profile: true
 redirect_from: 
   - /about/

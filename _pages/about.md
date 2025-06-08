@@ -22,8 +22,22 @@ Topic of research
 - Culture and Ethics in Large Language Models
 - Alignment in Multi-Agent Systems
 
+Collaborations
+------
+I am passionate about interdisciplinary collaboration for research and I enjoy applying my expertise across a wide range of domains. 
+My research experience spans creative and cultural industries, human resources, marketing, and AI for social good, often in partnership with both academic and industrial collaborators. 
+
+Teching Statement
+------
+Searching actively for an Assitant Professor Position in Generative AI, NLP/LLMs, or responsible AI.
+
+I aspire to be a collaborative, student-centered professor who bridges academic excellence with real-world industry experience. Drawing on my background in managing interdisciplinary teams and teaching applied NLP, I aim to provide students knowledge and understand of fundational models and generative AI preparing them for impactful careers while also contributing to their ethical awareness. I'm particularly excited to contribute to both core computing courses and emerging topics like generative AI, or fairness and ethics in AI.
+
+EDI Statement
+------
+I am deeply committed to equity, diversity, and inclusion, grounded in a strong belief in human rights, cultural diversity, and social justice. These values have guided my personal and professional journey, shaping my choice of research projects and collaborations with organizations dedicated to ethical, inclusive, and socially responsible AI. I actively promote fairness, safety, and environmental sustainability in all aspects of my work.
+
 Research Portfolio
 ------
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=i8GPsd4AAAAJ&hl).
-
-Under construction -- will add link towards code and the different datasets soon
+My github with the dataset and codes associated to most my projects : [Github](https://github.com/fcarichon/).

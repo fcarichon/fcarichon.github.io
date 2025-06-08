@@ -40,4 +40,5 @@ I am deeply committed to equity, diversity, and inclusion, grounded in a strong 
 Research Portfolio
 ------
 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=i8GPsd4AAAAJ&hl).
+
 My github with the dataset and codes associated to most my projects : [Github](https://github.com/fcarichon/).

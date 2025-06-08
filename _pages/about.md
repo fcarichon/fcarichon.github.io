@@ -32,6 +32,6 @@ Topic of research
 
 Research Portfolio
 ------
-You can find my work on [Google Scholar](https://scholar.google.com/citations?user=i8GPsd4AAAAJ&hl).
+You can find my work on [Google Scholar](https://scholar.google.com/citations?user=i8GPsd4AAAAJ&hl) and on [ResearchGate](https://www.researchgate.net/profile/Florian_Carichon?ev=hdr_xprf).
 
 My github with the dataset and codes associated to most my projects : [Github](https://github.com/fcarichon/).

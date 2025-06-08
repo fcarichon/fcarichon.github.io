@@ -14,6 +14,8 @@ I obtained my Ph.D. from the Department of Data Science at HEC Montréal in 2024
 
 I am currently a member of the EQUAL Lab under the Supervision of Pr. Golnoosh Farnadi : [EQUAL Lab](https://gfarnadi.github.io/student.html)
 
+I'm a French citizen originally from the beautiful French Alps, near Grenoble. I moved to Canada in 2018 and have since made Montréal my home. I especially enjoy the city's vibrant lifestyle and, of course, its Sunday brunches! Outside of work, you'll often find me riding my bike, playing badminton, or making the most of winter with plenty of skiing.
+
 Topic of research
 ------
 - Natural Language Processing
@@ -37,9 +39,6 @@ EDI Statement
 ------
 I am deeply committed to equity, diversity, and inclusion, grounded in a strong belief in human rights, cultural diversity, and social justice. These values have guided my personal and professional journey, shaping my choice of research projects and collaborations with organizations dedicated to ethical, inclusive, and socially responsible AI. I actively promote fairness, safety, and environmental sustainability in all aspects of my work.
 
-Personal Notes
-------
-I'm a French citizen originally from the beautiful French Alps, near Grenoble. I moved to Canada in 2018 and have since made Montréal my home. I especially enjoy the city's vibrant lifestyle and, of course, its Sunday brunches! Outside of work, you'll often find me riding my bike, playing badminton, or making the most of winter with plenty of skiing.
 
 Research Portfolio
 ------

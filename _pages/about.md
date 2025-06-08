@@ -31,9 +31,9 @@ My research experience spans creative and cultural industries, human resources, 
 
 Teching Statement
 ------
-Searching actively for an Assitant Professor Position in Generative AI, NLP/LLMs, or responsible AI.
+Searching actively for an assistant professor Position in Generative AI, NLP/LLMs, or responsible AI.
 
-I aspire to be a collaborative, student-centered professor who bridges academic excellence with real-world industry experience. Drawing on my background in managing interdisciplinary teams and teaching applied NLP, I aim to provide students knowledge and understand of fundational models and generative AI preparing them for impactful careers while also contributing to their ethical awareness. I'm particularly excited to contribute to both core computing courses and emerging topics like generative AI, or fairness and ethics in AI.
+I aspire to be a collaborative, student-centered professor who bridges academic excellence with real-world industry experience. Drawing on my background in managing interdisciplinary teams and teaching applied NLP, I aim to provide students with a knowledge and understanding of foundational models and generative AI, preparing them for impactful careers while also fostering their ethical awareness. I'm particularly excited to contribute to both core computing courses and emerging topics, such as generative AI and fairness and ethics in AI.
 
 EDI Statement
 ------

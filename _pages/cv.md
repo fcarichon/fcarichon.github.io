@@ -66,7 +66,7 @@ Supervision
 * 2016 - 2017 : Professional supervision of a PhD student on the problem of visualizing large volumes of integrated data for a Platform as a Service software.
 * 2015 - 2016 : Professional supervision and training of two students in computer science and Big Data at the University of Grenoble.
 
-Honers & Scolarships 
+Honors & Scolarships 
 ======
 * 2025 : Recipient of HEC Montréal Best Thesis Award, 2025.
 * 2022,2023 : Recipient of a "Prix d'excellence en pédagogie" from HEC Montréal.
